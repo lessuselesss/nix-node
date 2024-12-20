@@ -41,8 +41,11 @@ const semverSort = (a, b) => {
 
 const results = await Promise.all(
   versions
-    // Optional major version filter
-    .filter((v) => v.indexOf("13") == 0)
+    // Filter for versions 21-23
+    .filter((v) => {
+      const major = parseInt(v.split('.')[0]);
+      return major >= 21 && major <= 23;
+    })
     .sort(semverSort)
     .map(async (version) => ({
       version,
