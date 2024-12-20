@@ -479,133 +479,133 @@
           v23_3_0 = buildNodejs20 {
             enableNpm = true;
             version = "23.3.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hf593ykl217dbnxnhfzk4is67zw0p1g363g9czp5ipf39hvb9j2";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v23_2_1 = buildNodejs20 {
             enableNpm = true;
             version = "23.2.1";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v23_2_0 = buildNodejs20 {
             enableNpm = true;
             version = "23.2.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1irggdg53pnrmnqqgap218yaswsrpc0yj78zd69mcxw2csisixrw";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v23_1_1 = buildNodejs20 {
             enableNpm = true;
             version = "23.1.1";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v23_1_0 = buildNodejs20 {
             enableNpm = true;
             version = "23.1.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "08s498x486nklw1kjk6yzdqsl7jv47nshq4f5gm014qzslyzvjsp";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v23_0_0 = buildNodejs20 {
             enableNpm = true;
             version = "23.0.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1jlynx1hscf6d82m1xrm8xypqn2zvhsp9b11vvvpnjbwr6r01j3r";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_5_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.5.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_4_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.4.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_3_1 = buildNodejs20 {
             enableNpm = true;
             version = "22.3.1";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_3_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.3.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_2_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.2.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_1_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.1.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v22_0_0 = buildNodejs20 {
             enableNpm = true;
             version = "22.0.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_6_2 = buildNodejs20 {
             enableNpm = true;
             version = "21.6.2";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_6_1 = buildNodejs20 {
             enableNpm = true;
             version = "21.6.1";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_6_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.6.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_5_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.5.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_4_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.4.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_3_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.3.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_2_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.2.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_1_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.1.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
           v21_0_0 = buildNodejs20 {
             enableNpm = true;
             version = "21.0.0";
-            sha256 = "SHA256_PLACEHOLDER";
+            sha256 = "1hcvzyrwwmylap8agk82vb3v9bc9hcjh8x2kd23rvg8s2r6269w3";
             patches = lib.optional stdenv.isDarwin "${nixpkgs}/pkgs/development/web/nodejs/./bypass-xcodebuild.diff";
           };
         in rec {
